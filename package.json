@@ -1,0 +1,25 @@
+{
+  "name": "pizza-hw",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElijaHHall/pizza-hw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElijaHHall/pizza-hw/issues"
+  },
+  "homepage": "https://github.com/ElijaHHall/pizza-hw#readme",
+  "dependencies": {
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
